@@ -1,0 +1,6 @@
+facenet_pytorch==2.5.2
+numpy==1.19.5
+opencv_contrib_python==4.5.5.64
+Pillow==9.1.1
+torch==1.9.0+cu114nvi
+torchvision==0.10.0+cu114
